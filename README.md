@@ -1,3 +1,3 @@
 # latenttrack
 
-The source code will be uploaded soon.
+The source code that implemented the streamline embedding using recurrent auto-encoder.
